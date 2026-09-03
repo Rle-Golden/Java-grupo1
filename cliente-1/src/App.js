@@ -1,11 +1,12 @@
-import logo from './logo.svg';
-import './App.css';
+import  NavBarAdministrador  from './Componentes/NavBarAdministrador';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div>
+      <header>
         
+        <NavBarAdministrador />
+
       </header>
     </div>
   );
