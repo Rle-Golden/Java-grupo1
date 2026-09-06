@@ -5,7 +5,7 @@ const NavBarAdministrador = () => {
         <div>
             <nav className="menu-bar">
                 <div>
-                    <img src="../Img/logo_texto_trasparente.png"/>
+                    <img src="../Img/logo_texto_trasparente.png" alt="Logo de ObrasAIR" />
                     <div className="logo-texto">ObrasAIR</div>
                 </div>
 
